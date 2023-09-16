@@ -5,6 +5,8 @@ import math
 
 import requests
 
+from STOCK.testFunc import check_companies
+
 # import Image
 
 api_server_url = 'https://datsorange.devteam.games/'
@@ -91,6 +93,7 @@ def bestPriceBuy(symbolId: int, quantity: int):
 def main():
     print("Stock orange")
     getBuyStock()
+    check_companies
 
 
 if __name__ == "__main__":

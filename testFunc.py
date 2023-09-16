@@ -1,5 +1,5 @@
 import json
-import comp
+import companies_logic
 
 
 def get_stock_info(response):  # buy and sells
@@ -57,10 +57,10 @@ def get_prices(info):  # info company about buy price
 
 
 # ----------------
-def check_companies(get_sympols, sell_stock, buy_stock, news, info, companies: [comp.Company]):
+def check_companies(get_symbols, sell_stock, buy_stock, news, info, companies: [companies_logic.Company]):
     list_company = []
     # get id
-    id_return = get_all_id(get_sympols)
+    id_return = get_all_id(get_symbols)
     # get sells
     sells_return = get_all_sells(sell_stock)
     # get buys
@@ -83,7 +83,7 @@ def check_companies(get_sympols, sell_stock, buy_stock, news, info, companies: [
             sell_data = get_prices(sells_return[id])
         not_null_news = [n for n in news_return if n["companiesAffected"].__contains__(id)]
         if not_null_news:
-            news_data = not_null_news
+            news_data = not_null_news #возможно нужно удалять companiesAffected
         if id in info_return.keys():
             quantity = info_return[id]
 
@@ -93,15 +93,15 @@ def check_companies(get_sympols, sell_stock, buy_stock, news, info, companies: [
             current_company = [find for find in companies if find.id == id][0]
             current_company.update(buy_data, sell_data, quantity, news_data)
         else:  # create
-            list_company.append(comp.Company(id, ticker, buy_data, sell_data, quantity, news_data))
+            list_company.append(companies_logic.Company(id, ticker, buy_data, sell_data, quantity, news_data))
     return list_company
 
 
-get_sympols_response = json.load(open("jsons/get_sympols_response.json"))
-sell_stock_response = json.load(open("jsons/sell_stock_response.json"))
-buy_stock_response = json.load(open("jsons/buy_stock_response.json"))
-news_response = json.load(open("jsons/news_response.json"))
-info_response = json.load(open("jsons/info_response.json"))
+get_sympols_response = json.load(open("jsons_base/get_sympols_response.json"))
+sell_stock_response = json.load(open("jsons_base/sell_stock_response.json"))
+buy_stock_response = json.load(open("jsons_base/buy_stock_response.json"))
+news_response = json.load(open("jsons_base/news_response.json"))
+info_response = json.load(open("jsons_base/info_response.json"))
 
 
 companies = []
