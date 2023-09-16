@@ -1,0 +1,105 @@
+{
+  "account": {
+    "id": 256,
+    "name": "Dragon Kruiden"
+  },
+  "bids": [],
+  "assets": [
+    {
+      "id": 1,
+      "name": "Oranges",
+      "quantity": 10000
+    },
+    {
+      "id": 2,
+      "name": "GreenHarvest Co.",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "name": "EcoFields Agriculture",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "GrowThrive Farms",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "name": "NatureBounty Agriculture",
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "name": "HealthyRoots Farming",
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "name": "SunBlessed Farms",
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "name": "VerdantPlains AgriTech",
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "name": "GoldenGrain Harvesters",
+      "quantity": 0
+    },
+    {
+      "id": 11,
+      "name": "ForestGuardians Inc.",
+      "quantity": 0
+    },
+    {
+      "id": 12,
+      "name": "WiseAcres Farming",
+      "quantity": 0
+    },
+    {
+      "id": 13,
+      "name": "PureLand Agriculture",
+      "quantity": 0
+    },
+    {
+      "id": 14,
+      "name": "AgroGenius Corp.",
+      "quantity": 0
+    },
+    {
+      "id": 15,
+      "name": "EarthSprout Farms",
+      "quantity": 0
+    },
+    {
+      "id": 16,
+      "name": "Timberwise Forestry",
+      "quantity": 0
+    },
+    {
+      "id": 17,
+      "name": "FreshCrop Creators",
+      "quantity": 0
+    },
+    {
+      "id": 18,
+      "name": "HarvestMoon Co.",
+      "quantity": 0
+    },
+    {
+      "id": 19,
+      "name": "FarmFusion AgriTech",
+      "quantity": 0
+    },
+    {
+      "id": 21,
+      "name": "GreenValley Growers",
+      "quantity": 0
+    }
+  ],
+  "frozenAssets": []
+}

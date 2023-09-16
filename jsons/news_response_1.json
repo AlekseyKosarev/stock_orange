@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2023-09-15T18:57:21Z",
+    "text": "Появление новых форматов продажи товаров, вытесняющих традиционные магазины.",
+    "rate": -16,
+    "companiesAffected": [
+      "FarmCreators Co.",
+      "EcoGrowers Inc.",
+      "GreenHarvest Co.",
+      "FarmFusion Agriculture",
+      "NatureBounty Agriculture",
+      "GreenNest Farms",
+      "GreenRiver Growers",
+      "SunBlessed Farms",
+      "TimberRevival Forestry",
+      "EarthAbundance Agriculture",
+      "CropChampions Co.",
+      "ForestGem Timber",
+      "LeafyTimbers Forestry",
+      "AgriMasters Co.",
+      "HarvestHands Co.",
+      "AgriSurge Corp.",
+      "GreenHarmony Forestry",
+      "EarthEssence Agriculture",
+      "EcoFields Agriculture",
+      "GreenGrove Agriculture"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:57:11Z",
+    "text": "Ожидается выплата дивидендов",
+    "rate": 2,
+    "companiesAffected": [
+      "ForestTreasures Inc."
+    ]
+  },
+  {
+    "date": "2023-09-15T18:57:09Z",
+    "text": "Негативное влияние массовых мероприятий и спортивных соревнований на работу ресторанов и кафе.",
+    "rate": -52,
+    "companiesAffected": [
+      "FarmFusion AgriTech",
+      "WiseWoods Timber",
+      "FarmRevolution Co.",
+      "LeafyTimbers Forestry",
+      "Gift Agriculture",
+      "GreenSpirit Agriculture",
+      "TreeMenders Forestry",
+      "HarvestHands Co.",
+      "EarthyTreats Farms",
+      "GreenTrail Agriculture",
+      "TreeFort Forestry",
+      "GreenPatch Agriculture",
+      "VerdantPlains AgriTech",
+      "GreenValley Growers",
+      "TreeCraft Forestry",
+      "EcoFields Agriculture",
+      "WiseAcres Farming",
+      "GreenHaven Farms",
+      "AgroInnovators Corp.",
+      "GreenRiver Growers"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:56:47Z",
+    "text": "Ожидается выплата дивидендов",
+    "rate": 11,
+    "companiesAffected": [
+      "ForestTreasures Inc.",
+      "Timberwise Forestry",
+      "SunBlessed Farms",
+      "EcoFields Agriculture",
+      "HarvestMoon Co.",
+      "ForestGuardians Inc.",
+      "EarthSprout Farms",
+      "VerdantPlains AgriTech",
+      "FreshCrop Creators",
+      "GreenValley Growers",
+      "NatureBounty Agriculture",
+      "GoldenGrain Harvesters",
+      "PureLand Agriculture"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:56:11Z",
+    "text": "Ограничение географии поставок и проблемы с логистикой.",
+    "rate": -59,
+    "companiesAffected": [
+      "EcoFields Agriculture",
+      "FarmFusion Agriculture",
+      "VerdantPlains AgriTech",
+      "Timberwise Forestry",
+      "FarmRevolution Co.",
+      "EarthEnrich Agriculture",
+      "GreenMeadow Agriculture",
+      "SunBlessed Farms",
+      "GreenWealth Farms",
+      "WiseAcres Farming",
+      "GreenAcres Agriculture",
+      "PlantCrafters Farms",
+      "FieldPioneers Agriculture",
+      "TimberCrafters Inc.",
+      "EcoSow Farms",
+      "GreenRiver Growers",
+      "TimberArtisans Inc.",
+      "ForestEssence Timber",
+      "CropChampions Co.",
+      "TimberRevival Forestry"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:55:20Z",
+    "text": "Ожидается выплата дивидендов",
+    "rate": 7,
+    "companiesAffected": [
+      "Timberwise Forestry",
+      "VerdantPlains AgriTech",
+      "FreshCrop Creators",
+      "AgroGenius Corp.",
+      "HealthyRoots Farming",
+      "GreenHarvest Co.",
+      "GreenValley Growers",
+      "EcoFields Agriculture",
+      "PureLand Agriculture",
+      "ForestTreasures Inc.",
+      "WiseAcres Farming",
+      "ForestGuardians Inc.",
+      "GoldenGrain Harvesters",
+      "NatureBounty Agriculture",
+      "GrowThrive Farms"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:54:44Z",
+    "text": "Расширение публичного финансирования образования и увеличение бюджетных ассигнований для школ и университетов.",
+    "rate": -50,
+    "companiesAffected": [
+      "VerdantPlains AgriTech",
+      "TreeHarbor Timber",
+      "PlantPioneers Co.",
+      "Timberwise Forestry",
+      "EarthyTreats Farms",
+      "TreeFort Forestry",
+      "AgriMasters Co.",
+      "FarmFocus Agriculture",
+      "GreenPatch Agriculture",
+      "HarvestPioneers Co.",
+      "FarmCreators Co.",
+      "TreeSavvy Forestry",
+      "Gift Agriculture",
+      "ForestFusion Timber",
+      "FarmFusion AgriTech"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:53:31Z",
+    "text": "Ожидается выплата дивидендов",
+    "rate": 15,
+    "companiesAffected": [
+      "WiseAcres Farming",
+      "ForestTreasures Inc.",
+      "SunBlessed Farms",
+      "Timberwise Forestry",
+      "PureLand Agriculture"
+    ]
+  }
+]

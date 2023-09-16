@@ -1,0 +1,94 @@
+[
+  {
+    "date": "2023-09-15T18:25:56Z",
+    "text": "Ожидается выплата дивидендов",
+    "rate": 5,
+    "companiesAffected": [
+      "GreenValley Growers"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:25:44Z",
+    "text": "Введение новых технологических решений и автоматизации, которые замещают определенные виды услуг и снижают спрос на них.",
+    "rate": 34,
+    "companiesAffected": [
+      "EcoSow Farms",
+      "PureLand Agriculture",
+      "HarvestHands Co.",
+      "CropCrafters Co.",
+      "SunTouched Fields",
+      "FarmHorizons Co.",
+      "GreenGrove Agriculture",
+      "TimberNest Forestry",
+      "PlantCrafters Farms",
+      "AgriVentures Corp.",
+      "EarthSprout Farms",
+      "GreenTrail Agriculture",
+      "GreenWealth Farms",
+      "EarthyTreats Farms",
+      "AgroEvolve Corp.",
+      "FarmFresh Producers",
+      "ForestFusion Timber",
+      "GreenPatch Agriculture",
+      "EarthEnrich Agriculture",
+      "AgriMasters Co."
+    ]
+  },
+  {
+    "date": "2023-09-15T18:24:55Z",
+    "text": "Ожидается выплата дивидендов",
+    "rate": 11,
+    "companiesAffected": [
+      "HealthyRoots Farming",
+      "PureLand Agriculture",
+      "LeafyOrchards Inc.",
+      "HarvestMoon Co.",
+      "EarthSprout Farms",
+      "ForestTreasures Inc.",
+      "Timberwise Forestry",
+      "GreenValley Growers",
+      "SunBlessed Farms"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:23:15Z",
+    "text": "Негативное влияние политических решений и законодательства на функционирование ресторанов и кафе.",
+    "rate": -21,
+    "companiesAffected": [
+      "GreenEmbrace Agriculture",
+      "WiseAcres Farming",
+      "GreenHaven Farms",
+      "GreenHarvest Co.",
+      "FieldPioneers Agriculture",
+      "AgriVentures Corp.",
+      "TreeSavvy Forestry",
+      "LeafyTimbers Forestry",
+      "FieldFortune Farms",
+      "TimberCrafters Inc.",
+      "EarthSprout Farms",
+      "SunTouched Fields",
+      "EarthNurture Farms",
+      "HarvestMoon Co.",
+      "TimberGuard Inc.",
+      "TreeFort Forestry",
+      "AgroInnovators Corp.",
+      "PlantPioneers Co.",
+      "GrowThrive Farms",
+      "Nature"
+    ]
+  },
+  {
+    "date": "2023-09-15T18:23:14Z",
+    "text": "Ожидается выплата дивидендов",
+    "rate": 9,
+    "companiesAffected": [
+      "FarmFusion AgriTech",
+      "GrowThrive Farms",
+      "EcoFields Agriculture",
+      "GreenHarvest Co.",
+      "WiseAcres Farming",
+      "LeafyOrchards Inc.",
+      "HealthyRoots Farming"
+    ]
+  }
+]
